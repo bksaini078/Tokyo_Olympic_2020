@@ -2,6 +2,21 @@
 
 Tokyo Olympic 2020 Dataset for Data Analysis.
 
+## MedalsByCountry.csv
+Data columns (total 7 columns):
+
+|Column | Count | Dtype |
+|-------|------ | ------ |
+Rank | 93   |  int64
+Team/NOC |93 | object
+Gold   |   93   | int64 
+Silver  |  93   |  int64 
+Bronze |   93   |  int64 
+Total  |   93  | int64 
+RankbyTotal |   93   |  int64
+NOCCode |  93  |object
+
+
 ## MedalsByCountryGender.csv 
 
 Data columns (total 7 columns):
