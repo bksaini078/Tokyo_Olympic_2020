@@ -1,0 +1,181 @@
+Team/NOC,Gold,Silver,Bronze,Total,NOCCode,Gender
+United States,16,15,10,41,USA,Male
+China,13,13,9,35,CHN,Male
+Japan,12,5,8,25,JPN,Male
+Great Britain,12,12,10,34,GBR,Male
+ROC,10,11,14,35,ROC,Male
+Australia,7,3,10,20,AUS,Male
+Netherlands,5,7,1,13,NED,Male
+France,7,4,4,15,FRA,Male
+Germany,3,7,9,19,GER,Male
+Italy,7,7,10,24,ITA,Male
+Canada,2,1,3,6,CAN,Male
+Brazil,4,2,6,12,BRA,Male
+New Zealand,1,3,5,9,NZL,Male
+Cuba,7,2,4,13,CUB,Male
+Hungary,5,6,4,15,HUN,Male
+Republic of Korea,3,1,7,11,KOR,Male
+Poland,2,0,3,5,POL,Male
+Czech Republic,3,3,3,9,CZE,Male
+Kenya,2,2,1,5,KEN,Male
+Norway,4,2,1,7,NOR,Male
+Jamaica,1,0,1,2,JAM,Male
+Spain,1,4,5,10,ESP,Male
+Sweden,2,2,0,4,SWE,Male
+Switzerland,0,1,2,3,SUI,Male
+Denmark,2,3,1,6,DEN,Male
+Croatia,2,3,2,7,CRO,Male
+Islamic Rep. of Iran,3,2,2,7,IRI,Male
+Serbia,1,1,3,5,SRB,Male
+Belgium,1,1,2,4,BEL,Male
+Slovenia,2,0,1,3,SLO,Male
+Uzbekistan,3,0,2,5,UZB,Male
+Georgia,2,5,1,8,GEO,Male
+Chinese Taipei,1,3,1,5,TPE,Male
+Turkey,1,1,6,8,TUR,Male
+Greece,2,1,1,4,GRE,Male
+Uganda,1,1,1,3,UGA,Male
+Ecuador,1,0,0,1,ECU,Male
+Ireland,1,0,1,2,IRL,Male
+Israel,1,0,0,1,ISR,Male
+Qatar,2,0,1,3,QAT,Male
+Bahamas,1,0,0,1,BAH,Male
+Ukraine,1,3,3,7,UKR,Male
+Belarus,1,1,1,3,BLR,Male
+Romania,0,2,0,2,ROU,Male
+Venezuela,0,3,0,3,VEN,Male
+India,1,1,2,4,IND,Male
+"Hong Kong, China",1,0,0,1,HKG,Male
+Philippines,0,1,1,2,PHI,Male
+Slovakia,0,2,1,3,SVK,Male
+Austria,0,0,3,3,AUT,Male
+Egypt,0,1,2,3,EGY,Male
+Indonesia,0,1,2,3,INA,Male
+Ethiopia,1,1,0,2,ETH,Male
+Portugal,1,0,2,3,POR,Male
+Tunisia,1,1,0,2,TUN,Male
+Fiji,1,0,0,1,FIJ,Male
+Latvia,1,0,1,2,LAT,Male
+Morocco,1,0,0,1,MAR,Male
+Colombia,0,2,1,3,COL,Male
+Azerbaijan,0,2,2,4,AZE,Male
+Dominican Rep.,0,1,1,2,DOM,Male
+Armenia,0,2,2,4,ARM,Male
+Kyrgyzstan,0,1,0,1,KGZ,Male
+Mongolia,0,1,1,2,MGL,Male
+Argentina,0,0,2,2,ARG,Male
+San Marino,0,0,1,1,SMR,Male
+Jordan,0,1,1,2,JOR,Male
+Malaysia,0,1,1,2,MAS,Male
+Saudi Arabia,0,1,0,1,KSA,Male
+North Macedonia,0,1,0,1,MKD,Male
+Kazakhstan,0,0,6,6,KAZ,Male
+Mexico,0,0,1,1,MEX,Male
+Finland,0,0,1,1,FIN,Male
+Botswana,0,0,1,1,BOT,Male
+Burkina Faso,0,0,1,1,BUR,Male
+Ghana,0,0,1,1,GHA,Male
+Grenada,0,0,1,1,GRN,Male
+Kuwait,0,0,1,1,KUW,Male
+Rep. of Moldova,0,0,1,1,MDA,Male
+Syrian Arab Rep.,0,0,1,1,SYR,Male
+United States,23,22,21,66,USA,Female
+China,22,16,9,47,CHN,Female
+Japan,14,8,8,30,JPN,Female
+Great Britain,6,7,10,23,GBR,Female
+ROC,9,15,8,32,ROC,Female
+Australia,10,3,9,22,AUS,Female
+Netherlands,5,4,12,21,NED,Female
+France,2,8,5,15,FRA,Female
+Germany,4,3,5,12,GER,Female
+Italy,2,3,10,15,ITA,Female
+Canada,5,5,8,18,CAN,Female
+Brazil,3,4,2,9,BRA,Female
+New Zealand,6,3,2,11,NZL,Female
+Cuba,0,1,1,2,CUB,Female
+Hungary,1,1,3,5,HUN,Female
+Republic of Korea,2,3,3,8,KOR,Female
+Poland,1,5,2,8,POL,Female
+Czech Republic,1,1,0,2,CZE,Female
+Kenya,2,2,1,5,KEN,Female
+Norway,0,0,1,1,NOR,Female
+Jamaica,3,1,3,7,JAM,Female
+Spain,1,4,1,6,ESP,Female
+Sweden,0,3,0,3,SWE,Female
+Switzerland,3,3,4,10,SUI,Female
+Denmark,1,1,3,5,DEN,Female
+Croatia,1,0,0,1,CRO,Female
+Serbia,2,0,2,4,SRB,Female
+Belgium,2,0,0,2,BEL,Female
+Bulgaria,3,1,2,6,BUL,Female
+Slovenia,1,1,0,2,SLO,Female
+Chinese Taipei,1,1,4,6,TPE,Female
+Turkey,1,1,3,5,TUR,Female
+Uganda,1,0,0,1,UGA,Female
+Ecuador,1,1,0,2,ECU,Female
+Ireland,1,0,1,2,IRL,Female
+Israel,1,0,1,2,ISR,Female
+Bahamas,1,0,0,1,BAH,Female
+Kosovo,2,0,0,2,KOS,Female
+Ukraine,0,3,8,11,UKR,Female
+Belarus,0,2,2,4,BLR,Female
+Romania,1,1,0,2,ROU,Female
+Venezuela,1,0,0,1,VEN,Female
+India,0,1,2,3,IND,Female
+"Hong Kong, China",0,2,3,5,HKG,Female
+Philippines,1,1,0,2,PHI,Female
+Slovakia,1,0,0,1,SVK,Female
+South Africa,1,2,0,3,RSA,Female
+Austria,1,1,2,4,AUT,Female
+Egypt,1,0,2,3,EGY,Female
+Indonesia,1,0,1,2,INA,Female
+Ethiopia,0,0,2,2,ETH,Female
+Portugal,0,1,0,1,POR,Female
+Estonia,1,0,1,2,EST,Female
+Fiji,0,0,1,1,FIJ,Female
+Thailand,1,0,1,2,THA,Female
+Bermuda,1,0,0,1,BER,Female
+Puerto Rico,1,0,0,1,PUR,Female
+Colombia,0,2,0,2,COL,Female
+Azerbaijan,0,1,2,3,AZE,Female
+Dominican Rep.,0,1,1,2,DOM,Female
+Kyrgyzstan,0,1,1,2,KGZ,Female
+Mongolia,0,0,2,2,MGL,Female
+Argentina,0,1,0,1,ARG,Female
+San Marino,0,0,1,1,SMR,Female
+Nigeria,0,1,1,2,NGR,Female
+Bahrain,0,1,0,1,BRN,Female
+Lithuania,0,1,0,1,LTU,Female
+Namibia,0,1,0,1,NAM,Female
+Turkmenistan,0,1,0,1,TKM,Female
+Kazakhstan,0,0,2,2,KAZ,Female
+Mexico,0,0,2,2,MEX,Female
+Finland,0,0,1,1,FIN,Female
+Côte d'Ivoire,0,0,1,1,CIV,Female
+United States,0,2,2,4,USA,Mixed
+China,3,3,0,6,CHN,Mixed
+Japan,1,1,1,3,JPN,Mixed
+Great Britain,2,1,0,3,GBR,Mixed
+ROC,1,2,1,4,ROC,Mixed
+Australia,0,0,2,2,AUS,Mixed
+Netherlands,0,1,0,1,NED,Mixed
+France,1,0,1,2,FRA,Mixed
+Germany,0,0,2,2,GER,Mixed
+Italy,1,0,0,1,ITA,Mixed
+Republic of Korea,1,0,0,1,KOR,Mixed
+Poland,1,0,0,1,POL,Mixed
+Spain,1,0,0,1,ESP,Mixed
+Chinese Taipei,0,0,1,1,TPE,Mixed
+Israel,0,0,1,1,ISR,Mixed
+Ukraine,0,0,1,1,UKR,Mixed
+Dominican Rep.,0,1,0,1,DOM,Mixed
+San Marino,0,1,0,1,SMR,Mixed
+Mexico,0,0,1,1,MEX,Mixed
+United States,0,2,0,2,USA,Open
+Great Britain,2,1,2,5,GBR,Open
+Australia,0,1,1,2,AUS,Open
+Netherlands,0,0,1,1,NED,Open
+France,0,0,1,1,FRA,Open
+Germany,3,1,0,4,GER,Open
+Sweden,1,1,0,2,SWE,Open
+Belgium,0,0,1,1,BEL,Open

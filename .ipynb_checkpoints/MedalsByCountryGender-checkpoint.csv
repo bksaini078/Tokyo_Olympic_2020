@@ -1,0 +1,181 @@
+,Team/NOC,Gold,Silver,Bronze,Total,NOCCode,Gender
+0,United States,16,15,10,41,USA,Male
+1,China,13,13,9,35,CHN,Male
+2,Japan,12,5,8,25,JPN,Male
+3,Great Britain,12,12,10,34,GBR,Male
+4,ROC,10,11,14,35,ROC,Male
+5,Australia,7,3,10,20,AUS,Male
+6,Netherlands,5,7,1,13,NED,Male
+7,France,7,4,4,15,FRA,Male
+8,Germany,3,7,9,19,GER,Male
+9,Italy,7,7,10,24,ITA,Male
+10,Canada,2,1,3,6,CAN,Male
+11,Brazil,4,2,6,12,BRA,Male
+12,New Zealand,1,3,5,9,NZL,Male
+13,Cuba,7,2,4,13,CUB,Male
+14,Hungary,5,6,4,15,HUN,Male
+15,Republic of Korea,3,1,7,11,KOR,Male
+16,Poland,2,0,3,5,POL,Male
+17,Czech Republic,3,3,3,9,CZE,Male
+18,Kenya,2,2,1,5,KEN,Male
+19,Norway,4,2,1,7,NOR,Male
+20,Jamaica,1,0,1,2,JAM,Male
+21,Spain,1,4,5,10,ESP,Male
+22,Sweden,2,2,0,4,SWE,Male
+23,Switzerland,0,1,2,3,SUI,Male
+24,Denmark,2,3,1,6,DEN,Male
+25,Croatia,2,3,2,7,CRO,Male
+26,Islamic Rep. of Iran,3,2,2,7,IRI,Male
+27,Serbia,1,1,3,5,SRB,Male
+28,Belgium,1,1,2,4,BEL,Male
+29,Slovenia,2,0,1,3,SLO,Male
+30,Uzbekistan,3,0,2,5,UZB,Male
+31,Georgia,2,5,1,8,GEO,Male
+32,Chinese Taipei,1,3,1,5,TPE,Male
+33,Turkey,1,1,6,8,TUR,Male
+34,Greece,2,1,1,4,GRE,Male
+35,Uganda,1,1,1,3,UGA,Male
+36,Ecuador,1,0,0,1,ECU,Male
+37,Ireland,1,0,1,2,IRL,Male
+38,Israel,1,0,0,1,ISR,Male
+39,Qatar,2,0,1,3,QAT,Male
+40,Bahamas,1,0,0,1,BAH,Male
+41,Ukraine,1,3,3,7,UKR,Male
+42,Belarus,1,1,1,3,BLR,Male
+43,Romania,0,2,0,2,ROU,Male
+44,Venezuela,0,3,0,3,VEN,Male
+45,India,1,1,2,4,IND,Male
+46,"Hong Kong, China",1,0,0,1,HKG,Male
+47,Philippines,0,1,1,2,PHI,Male
+48,Slovakia,0,2,1,3,SVK,Male
+49,Austria,0,0,3,3,AUT,Male
+50,Egypt,0,1,2,3,EGY,Male
+51,Indonesia,0,1,2,3,INA,Male
+52,Ethiopia,1,1,0,2,ETH,Male
+53,Portugal,1,0,2,3,POR,Male
+54,Tunisia,1,1,0,2,TUN,Male
+55,Fiji,1,0,0,1,FIJ,Male
+56,Latvia,1,0,1,2,LAT,Male
+57,Morocco,1,0,0,1,MAR,Male
+58,Colombia,0,2,1,3,COL,Male
+59,Azerbaijan,0,2,2,4,AZE,Male
+60,Dominican Rep.,0,1,1,2,DOM,Male
+61,Armenia,0,2,2,4,ARM,Male
+62,Kyrgyzstan,0,1,0,1,KGZ,Male
+63,Mongolia,0,1,1,2,MGL,Male
+64,Argentina,0,0,2,2,ARG,Male
+65,San Marino,0,0,1,1,SMR,Male
+66,Jordan,0,1,1,2,JOR,Male
+67,Malaysia,0,1,1,2,MAS,Male
+68,Saudi Arabia,0,1,0,1,KSA,Male
+69,North Macedonia,0,1,0,1,MKD,Male
+70,Kazakhstan,0,0,6,6,KAZ,Male
+71,Mexico,0,0,1,1,MEX,Male
+72,Finland,0,0,1,1,FIN,Male
+73,Botswana,0,0,1,1,BOT,Male
+74,Burkina Faso,0,0,1,1,BUR,Male
+75,Ghana,0,0,1,1,GHA,Male
+76,Grenada,0,0,1,1,GRN,Male
+77,Kuwait,0,0,1,1,KUW,Male
+78,Rep. of Moldova,0,0,1,1,MDA,Male
+79,Syrian Arab Rep.,0,0,1,1,SYR,Male
+0,United States,23,22,21,66,USA,Female
+1,China,22,16,9,47,CHN,Female
+2,Japan,14,8,8,30,JPN,Female
+3,Great Britain,6,7,10,23,GBR,Female
+4,ROC,9,15,8,32,ROC,Female
+5,Australia,10,3,9,22,AUS,Female
+6,Netherlands,5,4,12,21,NED,Female
+7,France,2,8,5,15,FRA,Female
+8,Germany,4,3,5,12,GER,Female
+9,Italy,2,3,10,15,ITA,Female
+10,Canada,5,5,8,18,CAN,Female
+11,Brazil,3,4,2,9,BRA,Female
+12,New Zealand,6,3,2,11,NZL,Female
+13,Cuba,0,1,1,2,CUB,Female
+14,Hungary,1,1,3,5,HUN,Female
+15,Republic of Korea,2,3,3,8,KOR,Female
+16,Poland,1,5,2,8,POL,Female
+17,Czech Republic,1,1,0,2,CZE,Female
+18,Kenya,2,2,1,5,KEN,Female
+19,Norway,0,0,1,1,NOR,Female
+20,Jamaica,3,1,3,7,JAM,Female
+21,Spain,1,4,1,6,ESP,Female
+22,Sweden,0,3,0,3,SWE,Female
+23,Switzerland,3,3,4,10,SUI,Female
+24,Denmark,1,1,3,5,DEN,Female
+25,Croatia,1,0,0,1,CRO,Female
+26,Serbia,2,0,2,4,SRB,Female
+27,Belgium,2,0,0,2,BEL,Female
+28,Bulgaria,3,1,2,6,BUL,Female
+29,Slovenia,1,1,0,2,SLO,Female
+30,Chinese Taipei,1,1,4,6,TPE,Female
+31,Turkey,1,1,3,5,TUR,Female
+32,Uganda,1,0,0,1,UGA,Female
+33,Ecuador,1,1,0,2,ECU,Female
+34,Ireland,1,0,1,2,IRL,Female
+35,Israel,1,0,1,2,ISR,Female
+36,Bahamas,1,0,0,1,BAH,Female
+37,Kosovo,2,0,0,2,KOS,Female
+38,Ukraine,0,3,8,11,UKR,Female
+39,Belarus,0,2,2,4,BLR,Female
+40,Romania,1,1,0,2,ROU,Female
+41,Venezuela,1,0,0,1,VEN,Female
+42,India,0,1,2,3,IND,Female
+43,"Hong Kong, China",0,2,3,5,HKG,Female
+44,Philippines,1,1,0,2,PHI,Female
+45,Slovakia,1,0,0,1,SVK,Female
+46,South Africa,1,2,0,3,RSA,Female
+47,Austria,1,1,2,4,AUT,Female
+48,Egypt,1,0,2,3,EGY,Female
+49,Indonesia,1,0,1,2,INA,Female
+50,Ethiopia,0,0,2,2,ETH,Female
+51,Portugal,0,1,0,1,POR,Female
+52,Estonia,1,0,1,2,EST,Female
+53,Fiji,0,0,1,1,FIJ,Female
+54,Thailand,1,0,1,2,THA,Female
+55,Bermuda,1,0,0,1,BER,Female
+56,Puerto Rico,1,0,0,1,PUR,Female
+57,Colombia,0,2,0,2,COL,Female
+58,Azerbaijan,0,1,2,3,AZE,Female
+59,Dominican Rep.,0,1,1,2,DOM,Female
+60,Kyrgyzstan,0,1,1,2,KGZ,Female
+61,Mongolia,0,0,2,2,MGL,Female
+62,Argentina,0,1,0,1,ARG,Female
+63,San Marino,0,0,1,1,SMR,Female
+64,Nigeria,0,1,1,2,NGR,Female
+65,Bahrain,0,1,0,1,BRN,Female
+66,Lithuania,0,1,0,1,LTU,Female
+67,Namibia,0,1,0,1,NAM,Female
+68,Turkmenistan,0,1,0,1,TKM,Female
+69,Kazakhstan,0,0,2,2,KAZ,Female
+70,Mexico,0,0,2,2,MEX,Female
+71,Finland,0,0,1,1,FIN,Female
+72,Côte d'Ivoire,0,0,1,1,CIV,Female
+0,United States,0,2,2,4,USA,Mixed
+1,China,3,3,0,6,CHN,Mixed
+2,Japan,1,1,1,3,JPN,Mixed
+3,Great Britain,2,1,0,3,GBR,Mixed
+4,ROC,1,2,1,4,ROC,Mixed
+5,Australia,0,0,2,2,AUS,Mixed
+6,Netherlands,0,1,0,1,NED,Mixed
+7,France,1,0,1,2,FRA,Mixed
+8,Germany,0,0,2,2,GER,Mixed
+9,Italy,1,0,0,1,ITA,Mixed
+10,Republic of Korea,1,0,0,1,KOR,Mixed
+11,Poland,1,0,0,1,POL,Mixed
+12,Spain,1,0,0,1,ESP,Mixed
+13,Chinese Taipei,0,0,1,1,TPE,Mixed
+14,Israel,0,0,1,1,ISR,Mixed
+15,Ukraine,0,0,1,1,UKR,Mixed
+16,Dominican Rep.,0,1,0,1,DOM,Mixed
+17,San Marino,0,1,0,1,SMR,Mixed
+18,Mexico,0,0,1,1,MEX,Mixed
+0,United States,0,2,0,2,USA,Open
+1,Great Britain,2,1,2,5,GBR,Open
+2,Australia,0,1,1,2,AUS,Open
+3,Netherlands,0,0,1,1,NED,Open
+4,France,0,0,1,1,FRA,Open
+5,Germany,3,1,0,4,GER,Open
+6,Sweden,1,1,0,2,SWE,Open
+7,Belgium,0,0,1,1,BEL,Open
