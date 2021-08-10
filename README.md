@@ -25,6 +25,14 @@ M  |  1650   |  int64
 Total  |   1650  | int64 
 Team/NOC |  1650  |object
 
+## EntriesByDisciplineAndGender.csv
+|Column | Count | Dtype |
+|-------|------ | ------ |
+(Discipline, Discipline) | 47   |  object
+(Gender, F)   |   47   | int64 
+(Gender, M) |  47   |  int64 
+(Gender, F)  |   47  | int64 
+
 
 
 
