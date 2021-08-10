@@ -16,5 +16,15 @@ Total  |   180  | int64
 NOCCode |  180  |object
 Gender |   180   |  object
 
+## DisciplineByCountryGender.csv
+|Column | Count | Dtype |
+|-------|------ | ------ |
+Discipline | 1650   |  object
+F   |   1650   | int64 
+M  |  1650   |  int64 
+Total  |   1650  | int64 
+Team/NOC |  1650  |object
+
+
 
 
