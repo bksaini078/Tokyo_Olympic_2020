@@ -40,5 +40,12 @@ Name | 11656   |  object
 NOC  |   11656   | object 
 Discipline |  11656   |  object 
 
+## CoachesNOCDisciplineEvent.csv
+|Column | Count | Dtype |
+|-------|------ | ------ |
+Name | 406   |  object
+NOC  |   406   | object 
+Discipline |  406   |  object 
+Discipline |  406   |  object 
 
 
