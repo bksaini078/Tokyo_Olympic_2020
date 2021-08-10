@@ -46,6 +46,15 @@ Discipline |  11656   |  object
 Name | 406   |  object
 NOC  |   406   | object 
 Discipline |  406   |  object 
-Discipline |  406   |  object 
+Event |  406   |  object 
+
+## TeamsNOCDisciplineEvent.csv
+|Column | Count | Dtype |
+|-------|------ | ------ |
+Name | 742   |  object
+NOC  |   742   | object 
+Discipline |  742   |  object 
+Event |  742   |  object 
 
 
+Source: https://olympics.com/
