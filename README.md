@@ -48,7 +48,7 @@ Team/NOC |  1650  |object
 (Gender, M) |  47   |  int64 
 (Gender, F)  |   47  | int64 
 
-## AtheletesByCountryDiscipline.csv
+## AthletesByCountryDiscipline.csv
 |Column | Count | Dtype |
 |-------|------ | ------ |
 Name | 11656   |  object
